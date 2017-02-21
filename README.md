@@ -1,0 +1,6 @@
+# Core
+
+HIBERNATE 4
+SPRING 4
+MAVEN
+JAVA 8
