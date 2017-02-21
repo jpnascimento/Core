@@ -1,4 +1,4 @@
-# Core
+# Project "Core"
 
 HIBERNATE 4
 SPRING 4
